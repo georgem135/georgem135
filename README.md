@@ -54,6 +54,17 @@ An interactive Power BI dashboard focused on hospital emergency room data.
 - **SQL:** Developing intermediate-to-advanced querying and analytical skills.
 - **DAX:** Building my knowledge of intermediate-to-advanced calculations and measures in Power BI.
 - **Data Analysis:** Strengthening my approach to data preparation, analytical problem-solving, and communicating findings.
+- 
+## 🎓 Certifications & Professional Development
+
+<p>
+  <a href="https://www.coursera.org/account/accomplishments/specialization/KBG66SN04I4M">
+    <img src="https://img.shields.io/badge/Coursera-Google%20AI%20Essentials-0056D2?style=for-the-badge&logo=coursera&logoColor=white" alt="Google AI Essentials Specialization certificate on Coursera" />
+  </a>
+</p>
+
+**[Google AI Essentials Specialization](https://www.coursera.org/account/accomplishments/specialization/KBG66SN04I4M)** — Coursera  
+Completed: May 2026
 
 ## 🎯 My Focus
 
