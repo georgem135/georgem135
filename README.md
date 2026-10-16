@@ -1,61 +1,60 @@
-## Hi there, I'm Vhelaphi George Maluleke 👋
+# Hi, I'm Vhelaphi George Maluleke 👋
 
-<div align="center">
-  <!--  You can customize the typing text in the "lines=" section of the URL below -->
-  <!--  For an ampersand (&), use &amp; (e.g., Analytics+%26+Optimization) -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Analyst+%7C+Business+Intelligence;Turning+Data+into+Actionable+Insights;[Your+Specialty+Here];[Your+Experience+or+Tagline]" alt="Typing SVG" />
-</div>
+**Junior Data Analyst | Power BI · SQL · Excel · Python**
 
-<!-- 🔗 Update these links with your own social media and contact information -->
+I'm a self-taught aspiring data analyst building practical experience through portfolio projects. I'm interested in turning raw data into clear analysis and useful insights, with a focus on data visualisation and business intelligence.
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/vhelaphi-maluleke"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a
-  <a href="mailto:vhelaphigeorgemaluleke@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
+  <a href="https://github.com/georgem135">
+    <img src="https://img.shields.io/badge/GitHub-View%20Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
+  </a>
+  <a href="https://www.linkedin.com/in/vhelaphi-maluleke">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" />
+  </a>
+  <a href="mailto:vhelaphigeorgemaluleke@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
 
-## 🚀 About Me 
-I'm a data analyst passionate about helping businesses make sense of their data. I enjoy transforming complex, messy datasets into clear stories and actionable insights.
+## 📊 Featured Projects
 
-My focus is on building dashboards that get used, automating repetitive tasks to free up teams for more interesting problems, and creating models that help businesses plan for the future.
+### 1. Patient Visits Analysis — Power BI
 
-When I'm not working with data, I enjoy Video Games, Reading and Chilling with the Bros. I love the "BAM !!" moment when data reveals something new and useful.
+An interactive Power BI report focused on patient visit data.
 
-<!-- 🌐 Replace "your-username" with your actual GitHub username -->
-### [🏆 Check Out My Full Portfolio Website](https://github.com/georgem135)
-      
-## 🔭 What I'm Currently Working On 
+**[🔗 View Patient Visits Analysis Dashboard](https://app.powerbi.com/view?r=eyJrIjoiM2FhNTJiZTYtMWQxMy00MDM3LWE0MjItNTY2NjliZTAwMWU5IiwidCI6ImVhMjk1OTFmLWRkZjItNDI3OS1hZmY3LTYxODdjMWI3MDBlZiJ9)**
 
-- **Project A:** [Brief, one-line description of a project, e.g., Building a sales forecasting model in Python.]  
-- **Project B:** [Brief, one-line description of another project, e.g., Creating an interactive marketing dashboard in Power BI.]
-- **Content Creation:** [e.g., Developing new tutorials on data visualization for my YouTube channel.]
+### 2. Hospital Emergency Room Analysis — Power BI
 
-## 🌱 Currently Learning 
+An interactive Power BI report focused on hospital emergency room data.
 
-- [A new skill or technology you're exploring, e.g., Advanced machine learning techniques in Scikit-learn.]
-- [Another skill, e.g., Cloud data warehousing with Google BigQuery.]
+**[🔗 View Hospital Emergency Room Analysis Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYThkNThmMDctOWYxZS00NWNlLWFiMWEtNmYyOTFiZGJjZGMwIiwidCI6ImVhMjk1OTFmLWRkZjItNDI3OS1hZmY3LTYxODdjMWI3MDBlZiJ9)**
 
-## 🛠️ Technical Skillset
+## 🛠️ Technical Toolkit
 
-<!-- This section uses Shields.io badges. You can customize them or create your own!-->
+- **Power BI** — Interactive reports and data visualisation
+- **SQL** — Querying and analysing data
+- **Excel** — Data organisation and analysis
+- **Python** — Programming and data analysis
+- **DAX** — Developing calculations and measures for Power BI reports
 
-#### Data Analysis & Visualization
-<p>
-  <!-- 💡 Go to Shields.io to create your own badges -->
-  <img src="https://img.shields.io/badge/SQL-Advanced-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL Skill Badge">
-  <img src="https://img.shields.io/badge/Power%20BI-Expert-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI Skill Badge">
-  <img src="https://img.shields.io/badge/Excel-Expert-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel Skill Badge">
-  <img src="https://img.shields.io/badge/Tableau-Intermediate-E97627?style=flat&logo=tableau&logoColor=white" alt="Tableau Skill Badge">
-</p>
+## 🌱 Currently Learning
 
-#### Programming & Automation
-<p>
-  <img src="https://img.shields.io/badge/Python-Intermediate-3776AB?style=flat&logo=python&logoColor=white" alt="Python Skill Badge">
-  <img src="https://img.shields.io/badge/R-Beginner-276DC3?style=flat&logo=r&logoColor=white" alt="R Skill Badge">
-</p>
+- **SQL:** Intermediate-to-advanced querying and analytical techniques
+- **DAX:** Intermediate-to-advanced calculations and measures in Power BI
 
-#### Business Intelligence & Analytics
-<p>
-  <img src="https://img.shields.io/badge/A%2FB%20Testing-Experienced-FF6B6B?style=flat" alt="A/B Testing Skill Badge">
-  <img src="https://img.shields.io/badge/Statistical%20Analysis-Experienced-4ECDC4?style=flat" alt="Statistical Analysis Skill Badge">
-  <img src="https://img.shields.io/badge/Predictive%20Modeling-Intermediate-45B7D1?style=flat" alt="Predictive Modeling Skill Badge">
-  <img src="https://img.shields.io/badge/KPI%20Development-Expert-96CEB4?style=flat" alt="KPI Development Skill Badge">
-</p>
+## 🎯 Career Focus
+
+I'm building a project portfolio to demonstrate practical analysis, clear reporting, and data-informed problem-solving.
+
+My goal is to strengthen my data preparation, analytical thinking, visualisation, and reporting skills while developing the ability to turn business questions into meaningful insights.
+
+## 🤝 Connect With Me
+
+- **GitHub:** [georgem135](https://github.com/georgem135)
+- **LinkedIn:** [vhelaphi-maluleke](https://www.linkedin.com/in/vhelaphi-maluleke)
+- **Email:** [vhelaphigeorgemaluleke@gmail.com](mailto:vhelaphigeorgemaluleke@gmail.com)
+
+---
+
+*Outside analytics, I enjoy video games, reading, and spending time with friends.*
